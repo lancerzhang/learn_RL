@@ -1,0 +1,6 @@
+gymnasium
+gym
+stable-baselines3
+neat-python
+opencv-python
+numpy
