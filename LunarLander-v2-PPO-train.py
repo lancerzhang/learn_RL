@@ -2,7 +2,7 @@ import gymnasium as gym
 from stable_baselines3 import PPO
 import os
 
-models_dir = 'models/PPO'
+models_dir = 'models/PPO/LunarLander'
 
 if not os.path.exists(models_dir):
     os.makedirs(models_dir)
